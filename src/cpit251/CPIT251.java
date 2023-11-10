@@ -10,6 +10,7 @@ public class CPIT251 {
        System.out.print("Hello I'm layan");
        System.out.print("Hello I'm GHADA");
        System.out.println("Hello I'm Afnan");
+       System.out.println("Hello I'm Afnan, I send another time because I was connect github with Apache");
     }
     
 }
